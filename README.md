@@ -279,5 +279,3 @@ Ensure all three environment variables are set on your platform.
 MIT License — free to use, modify, and distribute.
 
 ---
-
-*Built as a take-home assignment for AI Product Development Engineer Intern position.*
